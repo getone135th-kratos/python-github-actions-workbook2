@@ -8,5 +8,5 @@ name = "Parrish"
 print("Hello, " + name)
 
 # Challenge 3 — User Input
-name = input("What is your name?")
-print("Hello, " + name)
+name = input("What is your name? ")
+print("Hello, " + Parrish)
