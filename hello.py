@@ -9,4 +9,4 @@ print("Hello, " + name)
 
 # Challenge 3 — User Input
 name = input("What is your name? ")
-print("Hello, " + Parrish)
+print("Hello, " + name)
